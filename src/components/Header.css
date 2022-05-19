@@ -1,7 +1,7 @@
 .header-cont {
-    height: 4.5rem;
+    height: 4rem;
     width: 100vw;
-    background-color: rgb(238, 236, 236);
+    background-color: rgb(255, 255, 255);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -24,22 +24,25 @@
     padding: 10px 0px 10px 0px;
 }
 .tele-cont {
-    height: 2rem;
+    height: 1.7rem;
+    width: 9rem;
     margin: 15px 5px 0 0;
     display: flex;
-    border: 2px solid rgb(116, 107, 107);
+    border: 1px solid rgb(116, 107, 107);
     border-radius: 8px;
     justify-self: center;
     align-items: center;
-    background-color: rgb(234, 230, 230);
+    background-color:rgb(255, 255, 255);
 }
 .tele-img{
-    height: 18px;
+    height: 15px;
     margin-right: 8px;
 
 }
 .tele-number{
-    margin-right: 15px; ;
+    font-weight:500;
+    margin-right: 15px;
+    color: rgb(16, 16, 143);
 }
 .right-cont img {
     margin-left: 20px;
